@@ -1,1 +1,1 @@
-# time to learn some js
+# sanity check to ensure that I actually understand js
